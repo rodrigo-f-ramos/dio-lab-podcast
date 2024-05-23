@@ -51,11 +51,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://github.com/felipeAguiarCode">
         GitHub
     </a>
-    &nbsp;|&nbsp;
-    &nbsp;|&nbsp;
-    &nbsp;|&nbsp;</p>
 </p>
-<br/><br/>
-<p>
-
----
